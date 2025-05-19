@@ -1,7 +1,8 @@
 # 🗑️ Smart Dustbin – Wet and Dry Waste Separator using Arduino
 This project is a Smart Garbage Dustbin that automatically detects and classifies waste as wet or dry, using a Soil Moisture Sensor and an Ultrasonic Sensor. Based on the type of waste, it opens the respective bin using Servo Motors. It aims to promote automated waste segregation and cleanliness using basic Arduino-based IoT technology.
 
-![Smart Dustbin ](https://github.com/user-attachments/assets/e2b98f00-0b5b-4da0-8f10-035f131bb4a2)
+![dustbin image](https://github.com/user-attachments/assets/6f0ff1cf-38b4-43f3-b48d-8c711e768b04)
+
 
 # 🔧 Components Used
 Arduino Uno
