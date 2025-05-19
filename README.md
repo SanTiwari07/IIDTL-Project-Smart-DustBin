@@ -69,12 +69,11 @@ Add IoT features (e.g., Blynk/ThingSpeak) to monitor bin fill level
 Add automatic garbage compactor or IR sensor for hand detection
 
 # 🧑‍💻 Developed by
-Sanskar Tiwari
-Rohan Tatar
-Kanishka Salgude
-Vrushali Patil
-Saamiya Patel
-Shambhavi Patil
-Aarshia Wani
-Vedika Thorat
-
+Sanskar Tiwari  
+Rohan Tatar  
+Kanishka Salgude  
+Vrushali Patil  
+Saamiya Patel  
+Shambhavi Patil  
+Aarshia Wani  
+Vedika Thorat  
